@@ -140,3 +140,5 @@ fabric.properties
 _temp
 
 /_reference/
+
+.idea/
