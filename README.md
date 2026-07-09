@@ -2,7 +2,9 @@
 
 mono-archive is a tool for creating and maintaining archives of monointerferenz.
 
-It prepares an record struckture and provides an interface for the manifest.yaml.
+It presents a overview of the archive, prepares an record struckture and provides an interface for editing the manifest.yaml.
+
+![](doc/interface.jpg)
 
 ## Installation
 
